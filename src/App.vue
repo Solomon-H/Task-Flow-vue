@@ -11,7 +11,6 @@
 <script>
 import TaskList from './components/TaskList.vue';
 import TaskInput from './components/TaskInput.vue';
-
 export default {
   components: {
     TaskList,
